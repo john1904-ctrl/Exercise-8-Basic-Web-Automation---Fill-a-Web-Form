@@ -1,7 +1,7 @@
 # Exercise-8-Basic-Web-Automation---Fill-a-Web-Form
 ~~~
-Name : W Allen Johnston Ozario  
-Reg.No : 21222411004  
+Name :JOHNPALL M
+Reg.No : 212224040140 
 ~~~
 
 ## Aim
